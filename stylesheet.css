@@ -1,1 +1,57 @@
-"Hello World" 
+body {
+    background-color:lightblue;
+    text-align:center;
+}
+
+h1 {
+    color:black;
+    font-size:40px;
+}
+
+p {
+    color:black; 
+    font-family:verdana;
+    font-size: 20px;
+    height: 100px;
+    width: 100px;
+    box-sizing: content-box;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+}
+
+#TS4 {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+}
+
+a {
+    background-color: blue;
+    font-size: 20px;
+}
+
+.nav-link {
+    background-color: tomato;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+
+a:hover {
+    background-color: red;
+    font-size: 20px;
+}
+
+div {
+    height: 200px;
+    width: 200px;
+    box-sizing: content-box;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-left: 2px solid red;
+    border-right: 2px solid red;
+}
