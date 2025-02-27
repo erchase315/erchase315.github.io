@@ -28,20 +28,20 @@ p {
 
 a {
     background-color: blue;
-    font-size: 10px;
+    font-size: 20px;
 }
 
 .nav-link {
     background-color: tomato;
     color: white;
     border: 1px solid white;
-    margin: 10px;
-    padding: 10px;
+    margin: 20px;
+    padding: 2ppx;
 }
 
 a:hover {
     background-color: blue;
-    font-size: 10px;
+    font-size: 20px;
 }
 
 div {
