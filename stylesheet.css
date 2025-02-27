@@ -12,7 +12,7 @@ p {
     color:black; 
     font-family:verdana;
     font-size: 20px;
-    height: 300px;
+    height: fit-content;
     width: 300px;
     box-sizing: content-box;
     padding-left: 10px;
@@ -36,7 +36,7 @@ a {
 .nav-link {
     background-color: tomato;
     color: white;
-    border: 1px solid black;
+    border: 1px solid white;
     margin: 10px;
     padding: 10px;
 }
@@ -47,7 +47,7 @@ a:hover {
 }
 
 div {
-    height: 600px;
+    height: fit-content;
     width: 600px;
     box-sizing: content-box;
     padding-left: 20px;
