@@ -1,42 +1,43 @@
 body {
-    background-color:lightblue;
-    text-align:center;
+    background-color:green;
+    text-align:left;
 }
 
 h1 {
     color:black;
     font-size:40px;
+    text-align: left;
 }
 
 p {
     color:black; 
     font-family:verdana;
     font-size: 20px;
-    width: 300px;
+    width: 100%;
     box-sizing: content-box;
-    padding-left: 10px;
-    padding-right: 10px;
-    border-left: 1px solid white;
+    padding: 10px;
+    border: 1px solid white;
+    text-align: left;
 }
 
 #TS4 {
-    background-color: lightblue;
+    background-color: tomato;
     color: black;
     padding: 40px;
-    text-align: center;
+    text-align: left;
 }
 
 a {
-    background-color: blue;
+    background-color: lightblue;
     font-size: 20px;
 }
 
 .nav-link {
-    background-color: tomato;
+    background-color: lightblue;
     color: white;
     border: 1px solid white;
     margin: 20px;
-    padding: 2ppx;
+    padding: 10ppx;
 }
 
 a:hover {
@@ -45,13 +46,12 @@ a:hover {
 }
 
 div {
-    width: 600px;
+    width: 100%;
     box-sizing: content-box;
-    padding-left: 20px;
-    padding-right: 20px;
-    border-left: 2px solid red;
+    padding: 20px;
+    border: 2px solid red;
 }
 
 img {
-    width: 300px;
+    width: 100%;
   }
