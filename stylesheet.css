@@ -13,11 +13,12 @@ p {
     color:black; 
     font-family:verdana;
     font-size: 20px;
-    width: 100%;
     box-sizing: content-box;
     padding: 10px;
     border: 1px solid blue;
     text-align: left;
+    margin: 20px;
+    width: fit-content;
 }
 
 #TS4 {
@@ -26,6 +27,8 @@ p {
     color: black;
     padding: 10px;
     text-align: left;
+    margin: 20px;
+    width: fit-content;
 }
 
 a {
@@ -35,7 +38,7 @@ a {
 }
 
 .nav-link {
-    background-color: lightblue;
+    background-color: blue;
     color: white;
     border: 1px solid white;
     margin: 20px;
@@ -54,7 +57,7 @@ a:hover {
 }
 
 div {
-    width: 100%;
+    width: fit-content;
     box-sizing: content-box;
     padding: 20px;
     border: 2px solid white;
