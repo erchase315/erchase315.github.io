@@ -30,6 +30,7 @@ p {
 a {
     background-color: lightblue;
     font-size: 20px;
+    padding: 10px;
 }
 
 .nav-link {
@@ -38,6 +39,10 @@ a {
     border: 1px solid white;
     margin: 20px;
     padding: 10ppx;
+}
+
+.simsImage {
+    width: 100%;
 }
 
 a:hover {
@@ -50,8 +55,5 @@ div {
     box-sizing: content-box;
     padding: 20px;
     border: 2px solid red;
+    text-align: left;
 }
-
-img {
-    width: 100%;
-  }
